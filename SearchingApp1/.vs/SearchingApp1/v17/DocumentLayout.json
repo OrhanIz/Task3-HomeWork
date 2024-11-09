@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\Searching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|solutionrelative:Searching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\Searching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{E699A4F5-DE35-4FE1-B3A2-E44D5B4F1365}|solutionrelative:Searching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F6C100-7CFB-4C62-8EDF-0E97499FC395}|SearchingApp1.vcxproj|C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\SearchingApp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96F6C100-7CFB-4C62-8EDF-0E97499FC395}|SearchingApp1.vcxproj|solutionrelative:SearchingApp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Searching.h",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\Searching.h",
+              "RelativeDocumentMoniker": "Searching.h",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\Searching.h*",
+              "RelativeToolTip": "Searching.h*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-09T22:55:12.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Searching.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\Searching.cpp",
+              "RelativeDocumentMoniker": "Searching.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\Searching.cpp",
+              "RelativeToolTip": "Searching.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T22:52:10.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchingApp1.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\SearchingApp1.cpp",
+              "RelativeDocumentMoniker": "SearchingApp1.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\SearchingApp1\\SearchingApp1.cpp",
+              "RelativeToolTip": "SearchingApp1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T22:49:15.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

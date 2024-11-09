@@ -1,0 +1,35 @@
+﻿  SearchingApp1.cpp
+C:\Users\rhn23\source\repos\SearchingApp1\Searching.h(28,15): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('SearchingApp1.cpp' kaynak dosyası derleniyor)
+      C:\Users\rhn23\source\repos\SearchingApp1\Searching.h(28,15):
+      şablon örneği oluşturma bağlamı (önce en eski olan)
+          C:\Users\rhn23\source\repos\SearchingApp1\SearchingApp1.cpp(11,17):
+          derlenen şablon işlevi 'int binarySearch<int>(std::vector<int,std::allocator<int>>,T)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\rhn23\source\repos\SearchingApp1\Searching.h(66,15): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('SearchingApp1.cpp' kaynak dosyası derleniyor)
+      C:\Users\rhn23\source\repos\SearchingApp1\Searching.h(66,15):
+      şablon örneği oluşturma bağlamı (önce en eski olan)
+          C:\Users\rhn23\source\repos\SearchingApp1\SearchingApp1.cpp(19,13):
+          derlenen şablon işlevi 'int binarySearchFirst<int>(std::vector<int,std::allocator<int>>,T)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\rhn23\source\repos\SearchingApp1\Searching.h(19,20): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('SearchingApp1.cpp' kaynak dosyası derleniyor)
+      C:\Users\rhn23\source\repos\SearchingApp1\Searching.h(19,20):
+      şablon örneği oluşturma bağlamı (önce en eski olan)
+          C:\Users\rhn23\source\repos\SearchingApp1\SearchingApp1.cpp(27,13):
+          derlenen şablon işlevi 'int linearSearch<int>(std::vector<int,std::allocator<int>>,T)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              T=int
+          ]
+  
+  SearchingApp1.vcxproj -> C:\Users\rhn23\source\repos\SearchingApp1\x64\Debug\SearchingApp1.exe
